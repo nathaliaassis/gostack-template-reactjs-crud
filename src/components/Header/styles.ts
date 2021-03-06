@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { shade } from 'polished';
 
 export const Container = styled.div`
   background: #c72828;
@@ -35,6 +36,16 @@ export const Container = styled.div`
             background: #41c900;
             border-radius: 0 8px 8px 0;
             margin: 0 auto;
+          }
+
+          &:hover {
+            background-color: ${shade(0.05, '#39b100')};
+            transition: all .5s;
+
+            .icon {
+              transition: all .5s;
+              background-color: ${shade(0.05, '#41c900')};
+            }
           }
         }
       }

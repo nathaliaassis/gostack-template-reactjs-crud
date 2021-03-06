@@ -23,6 +23,20 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://www.lovemysalad.com/sites/default/files/styles/home_carousel_item_768/public/klassieke_ratatouille_uit_de_provence-4.jpg?itok=ghwgZ7IW",
+      "name": "Ratatouille",
+      "price": "70,00",
+      "description": "Clássica receita francesa provençal de legumes cozidos do século XVIII",
+      "id": 4
+    },
+    {
+      "image": "https://www.lovemysalad.com/sites/default/files/styles/home_carousel_item_768/public/klassieke_ratatouille_uit_de_provence-4.jpg?itok=ghwgZ7IW",
+      "name": "Ratatouille",
+      "price": "70,00",
+      "description": "Clássica receita francesa provençal de legumes cozidos do século XVIII",
+      "id": 5
     }
   ]
 }
